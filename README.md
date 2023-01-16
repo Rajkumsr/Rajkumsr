@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rajkumar
-- 👀 I’m interested in Game Testing, Software Testing, Development, etc
-- 🌱 I’m currently learning Engineering at Pune
+- 👀 I’m interested in Development, etc
 - 💞️ I’m looking to collaborate on any technology
 - 📫 How to reach me rajkumarpatil2203@gmail.com
 
